@@ -1,7 +1,7 @@
 # Transaction Fraud Analysis
 
 
-This project is a data analysis and visualization report built in Power BI, using a sample of the [PaySim](https://www.kaggle.com/datasets/ealaxi/paysim1) dataset. 
+This project is a data analysis and visualization report built in Power BI. 
 ---
 
 ## 📂 Contents

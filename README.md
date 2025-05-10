@@ -6,7 +6,7 @@ This project is a data analysis and visualization report built in Power BI, usin
 
 ## 📂 Contents
 
-- Power BI `.pbix` report with dashboards
+- Power BI report screenshots can be found in the images folder. Unfortunately, due to the high size of pbix file cannot be loaded
 - KPI calculations and analysis logic
 - Dashboard screenshots
 
@@ -27,6 +27,8 @@ This project is a data analysis and visualization report built in Power BI, usin
 ---
 
 ## 📈 Report Highlights 
+
+Power BI Report: https://app.fabric.microsoft.com/reportEmbed?reportId=51381780-3a86-4bdc-81e7-084d11a6ab51&autoAuth=true&ctid=bdd02b43-f9cd-40c0-9e34-c9d0314b687f
 
 ### 🧮 Key KPIs
 

@@ -6,7 +6,7 @@ This project is a data analysis and visualization report built in Power BI, usin
 
 ## 📂 Contents
 
-- Power BI report screenshots can be found in the images folder. Unfortunately, due to the high size of pbix file cannot be loaded
+- Power BI report screenshots can be found in the Power BI Report folder. Unfortunately, due to the high size of pbix file, it cannot be loaded, but I have attached Report link below.
 - KPI calculations and analysis logic
 - Dashboard screenshots
 
